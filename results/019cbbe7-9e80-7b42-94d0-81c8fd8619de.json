@@ -1,0 +1,28 @@
+{
+  "status": "completed",
+  "results": [
+    {
+      "pro_debater": {
+        "emotional_appeal": 0.8,
+        "argument_clarity": 0.9,
+        "argument_arrangement": 0.9,
+        "relevance_to_topic": 1.0,
+        "total_score": 3.6
+      },
+      "con_debater": {
+        "emotional_appeal": 0.7,
+        "argument_clarity": 0.8,
+        "argument_arrangement": 0.8,
+        "relevance_to_topic": 1.0,
+        "total_score": 3.3
+      },
+      "winner": "pro_debater",
+      "reason": "The Pro debater presented a more comprehensive and structured argument, effectively highlighting the necessity of regulation across multiple facets including safety, ethics, innovation, security, and consumer protection. While the Con debater raised valid points about the potential downsides of regulation, their arguments were less detailed and persuasive in comparison. The Pro debater's emphasis on a balanced approach, where regulation fosters rather than stifles innovation, was particularly strong."
+    }
+  ],
+  "participants": {
+    "green": "019cbab6-0bdb-78b3-bddf-56c8826be490",
+    "pro_debater": "019cb78b-dcc1-7b51-927b-ca5bc7d70d65",
+    "con_debater": "019cb78b-dcc1-7b51-927b-ca5bc7d70d65"
+  }
+}
